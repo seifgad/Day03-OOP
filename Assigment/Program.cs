@@ -118,9 +118,9 @@
                 
             //    Employee[] EmpArr = new Employee[3];
 
-            //    EmpArr[0] = new Employee(101, "Alice", SecurityLevel.DBA, 85000m, new DateTime(2020, 6, 15), "F");
-            //    EmpArr[1] = new Employee(102, "Bob", SecurityLevel.Guest, 35000m, new DateTime(2022, 3, 10), "M");
-            //    EmpArr[2] = new Employee(103, "Charlie", SecurityLevel.SecurityOfficer, 95000m, new DateTime(2018, 1, 5), "M");
+            //    EmpArr[0] = new Employee(101, "rahma", SecurityLevel.DBA, 85000m, new DateTime(2020, 6, 23), "F");
+            //    EmpArr[1] = new Employee(102, "omer", SecurityLevel.Guest, 35000m, new DateTime(2022, 6, 15), "M");
+            //    EmpArr[2] = new Employee(103, "seif", SecurityLevel.SecurityOfficer, 95000m, new DateTime(2018, 12, 19), "M");
 
             //    Console.WriteLine("Employee Details:");
             //    foreach (var emp in EmpArr)
